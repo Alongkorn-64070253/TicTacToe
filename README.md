@@ -1,6 +1,6 @@
 # Project ComPro Tic-Tac-Toe
 
-![](Header.png)
+![](header.png)
 
 ## 📝Description
 
