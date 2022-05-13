@@ -15,16 +15,12 @@
 
 ### 📁Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* ดาวน์โหลดไฟล์ zip จาก github
+* เเตกไฟล์ลงบนโฟลเดอร์ที่ต้องการ
 
 ### 👨‍💻Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+* กดรันตัว tic_tac_toe.exe
 
 ## 👨Author
 
