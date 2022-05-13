@@ -35,7 +35,7 @@ int main()
       system("cls");
       char let;
       printf("\n\n\n\t\t\t\t\t -----------------------------------------");
-      printf("\n\t\t\t\t\t\t   Tic Tac Toe Kubpom");
+      printf("\n\t\t\t\t\t\t   Tic Tac toe Kubpom");
       printf("\n\t\t\t\t\t -----------------------------------------\n\n");
       printf("\n\t\t\t\t\t    - Press S\033[0;37m to start the game");
       printf("\n\t\t\t\t\t    - Press Q\033[0;37m to quit             ");
@@ -52,7 +52,7 @@ int main()
          break;
       }
       else
-         printf("\n\n\n\n\t\t\t\t\t      Press enter Q or S   Kub          ");
+         printf("\n\n\n\n\t\t\t\t\t      Press enter Q or S   Isasss          ");
          getch();
    }
 }
