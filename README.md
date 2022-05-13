@@ -8,6 +8,10 @@
 
 ## 🔢Code Details
 
+![](Code1.png)
+![](Code2.png)
+![](Code3.png)
+
 ## ⭐Getting Started
 
 ### 🖥️Dependencies
