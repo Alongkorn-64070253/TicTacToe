@@ -14,7 +14,7 @@
 
 ## Presentation Clip
 
-![Youtube]()(https://youtu.be/Sfj91y5pSL4)
+https://youtu.be/Sfj91y5pSL4
 
 ## ⭐Getting Started
 
